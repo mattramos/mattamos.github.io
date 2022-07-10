@@ -1,0 +1,4 @@
+Add summary
+Provide some current research summary - bayesian ensembling
+Figure out why the display multiple authors doesn't quite work
+Change the style
