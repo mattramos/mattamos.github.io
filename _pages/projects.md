@@ -5,7 +5,7 @@ permalink: /projects/
 description: A description of current research
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [current, old]
 horizontal: false
 ---
 
