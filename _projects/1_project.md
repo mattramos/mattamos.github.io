@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Probabilistically ensembling climate modes
+description: How can we better make projections of the future?
 img: assets/img/12.jpg
 importance: 1
 category: work
