@@ -6,4 +6,4 @@ img: assets/img/many_earths.png
 importance: 1
 category: current
 ---
-Info coming soon
+Info coming soon!
