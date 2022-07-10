@@ -115,7 +115,7 @@ external_sources:
 
 collections:
   news:
-    defaults:git c
+    defaults:
       layout: post
     output: true
     permalink: /news/:path/
