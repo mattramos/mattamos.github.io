@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: Publications both in preperation (top) and published (below). *s denote equal authorship.
-years: [InPrep, 2022, 2021, 2020]
+years: [Submitted, InPrep, 2022, 2021, 2020]
 nav: true
 nav_order: 1
 ---
