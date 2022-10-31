@@ -4,5 +4,6 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 3
-cv_pdf: cv_pdf.pdf
+long_pdf: long_cv.pdf 
+short_pdf: short_cv.pdf
 ---
